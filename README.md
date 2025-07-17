@@ -1,25 +1,25 @@
-# 👋 Hi, I'm [Your Name]!
-![Profile Image](https://example.com/your-image.jpg)
+## **👋 Hi, I'm [MengQxuan]!**  
+![Profile Image](https://example.com/your-image.jpg) *(替换为你的头像链接)*  
+> **南开大学 计算机科学与技术**
 
-### 🌟 简介
-一句话介绍自己，例如：  
-> 全栈开发者 | 专注于前端与 AI 技术 | 爱好开源与技术写作
+### 🧠 技能栈  
+- ⚡ **前端开发**：JavaScript, React, Vue.js, HTML/CSS  
+- 🐍 **后端开发**：Python (Django/Flask), Node.js, Java (Spring Boot), C++
+- 🛠️ **工具链**：Git, Docker, Linux, VS Code 
 
-### 🧠 技能栈
-- ⚡ JavaScript / TypeScript  
-- 🐍 Python  
-- 🎨 HTML/CSS  
-- 📊 数据可视化  
-- 🤖 机器学习基础  
+### 📊 数据统计  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&show_icons=true&theme=dracula)](https://github.com/yourusername)  
+[![Commit Activity](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dracula)](https://github.com/yourusername)  
+[![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)](https://github.com/yourusername)  
 
-### 📦 项目亮点
-- [项目名称 1](https://github.com/yourusername/repo1) - 简短描述  
-- [项目名称 2](https://github.com/yourusername/repo2) - 简短描述  
 
-### 📊 数据统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/yourusername)
-[![Commit Activity](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername)
+### 🌈 动态展示
+1. **打字效果**：  
+   ```markdown
+   ![Typing SVG](https://readme-typing-svg.demolab.com?lines=热爱开源,专注AI,欢迎交流&font=Ubuntu&size=20&color=008000)
+   ```
 
-### 🌐 联系方式
-- 📧 邮箱: your.email@example.com  
-- 🔗 LinkedIn: [LinkedIn 个人主页](https://linkedin.com/in/yourname)  
+2. **WakaTime 编程时长统计**（需绑定 API Key）：  
+   ```markdown
+   [![WakaRead](https://wakatime.com/share/@yourusername/your-api-key.svg)](https://wakatime.com/@yourusername)
+   ```
