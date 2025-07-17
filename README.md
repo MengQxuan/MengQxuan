@@ -1,5 +1,5 @@
-## **👋 Hi, I'm [MengQxuan]!**  
-> **南开大学 计算机科学与技术**
+# **👋 Hi, I'm [MengQxuan]!**  
+## **南开大学 计算机科学与技术**
 <!-- 
 ### 🧠 技能栈  
 - ⚡ **前端开发**：JavaScript, React, Vue.js, HTML/CSS  
