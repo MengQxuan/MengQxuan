@@ -1,5 +1,4 @@
 ## **👋 Hi, I'm [MengQxuan]!**  
-![Profile Image](https://example.com/your-image.jpg) *(替换为你的头像链接)*  
 > **南开大学 计算机科学与技术**
 
 ### 🧠 技能栈  
@@ -8,9 +7,9 @@
 - 🛠️ **工具链**：Git, Docker, Linux, VS Code 
 
 ### 📊 数据统计  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&show_icons=true&theme=dracula)](https://github.com/yourusername)  
-[![Commit Activity](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dracula)](https://github.com/yourusername)  
-[![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)](https://github.com/yourusername)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MengQxuan&show_icons=true&theme=dracula)](https://github.com/MengQxuan)  
+[![Commit Activity](https://github-readme-stats.vercel.app/api?username=MengQxuan&theme=dracula)](https://github.com/MengQxuan)  
+[![Visitor Count](https://profile-counter.glitch.me/MengQxuan/count.svg)](https://github.com/MengQxuan)  
 
 
 ### 🌈 动态展示
@@ -21,5 +20,5 @@
 
 2. **WakaTime 编程时长统计**（需绑定 API Key）：  
    ```markdown
-   [![WakaRead](https://wakatime.com/share/@yourusername/your-api-key.svg)](https://wakatime.com/@yourusername)
+   [![WakaRead](https://wakatime.com/share/@yourusername/your-api-key.svg)](https://wakatime.com/@MengQxuan)
    ```
